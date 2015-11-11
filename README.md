@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub.
-I love :soccer:, :tv: and :computer:.
+I love :soccer:, :tennis:, :tv: and :computer:.
